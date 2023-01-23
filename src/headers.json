@@ -1,0 +1,22 @@
+[
+  {
+    "title": "BACKLOG",
+    "color": "red",
+    "card": []
+  },
+  {
+    "title": "TODO",
+    "color": "yellow",
+    "card": []
+  },
+  {
+    "title": "IN PROGRESS",
+    "color": "blue",
+    "card": []
+  },
+  {
+    "title": "COMPLETE",
+    "color": "green",
+    "card": []
+  }
+]

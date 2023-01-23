@@ -1,2 +1,18 @@
-# Kanban-Board
-Kanban board with with ReactJs. Complete Kanban feature of drag&amp;drop, create task change the priority and all.
+#### Development Setup Process
+
+ - Go to the project directory
+ - hit command `npm install` to install the dependencies.
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+
